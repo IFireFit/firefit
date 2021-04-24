@@ -1,0 +1,39 @@
+.navbar-brand img{
+    border:1px solid black;
+    border-radius:10px;
+    width:150px;
+}
+.card-img-top {
+    width:100px;
+    padding:10px;
+}
+.nav-link {
+font-size:1.5em;
+color:black !important;
+}
+.nav-link:hover {
+border-radius:500px;
+transition:0.7s; 
+background-color:orange;
+}
+.mytxt {
+    text-align:center;
+}
+.myphoto img{
+    width:300px;
+    border:1px solid black;
+    border-radius:10px;
+}
+.fafp img{
+    width:150px;
+    padding:1em;  
+}
+#conblock {
+    background-color: #000;
+    text-align:center;
+    padding:10px;
+    color:white;
+}
+.muha {
+ font-size:2em;
+}
